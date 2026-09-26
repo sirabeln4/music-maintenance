@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: music-maintenance
+Version: 0.1.0
+Summary: Read-only catalog and maintenance planning for MP3 and WMA libraries
+Requires-Python: >=3.11
+Requires-Dist: PySide6<7,>=6.7
+Requires-Dist: mutagen<2,>=1.47

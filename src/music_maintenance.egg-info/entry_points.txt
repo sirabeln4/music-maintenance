@@ -1,0 +1,2 @@
+[console_scripts]
+music-maintenance = music_maintenance.app:main
